@@ -2,8 +2,6 @@
 title: Developer Sandbox | Frequently asked questions
 ---
 
-# Adding a GPU Node Pool to AI Clusters
-
 Your Developer Sandbox is active for 30 days and has specific built-in functionality. However, in some scenarios, we may be able to modify this time allotment and other default settings. If you want to request a change, please contact the team creating the Developer Sandbox. Make sure to include a little information about who you are and why you need these changes. 
 
 Most settings and management needs can be taken care of from within your cluster interface itself. Learn about developer-focused features in the OpenShift Developer Console.
